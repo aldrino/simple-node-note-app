@@ -1,15 +1,14 @@
 {
-  "name": "notes-node",
+  "name": "node-todo-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrew Mead",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.13.1",
-    "yargs": "^4.7.1"
+    "mongodb": "^2.2.5"
   }
 }
